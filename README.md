@@ -16,7 +16,7 @@ Ctrl+X : exit nano.
 4. Go ahead and add the first line, save (Ctrl+O) and commit the `nano-cheat-sheet.txt` file.
 
 5. Add the definitions of the following key bindings: Ctrl+W, Ctrl+K, 
-Ctrl+A, Ctrl+E, Esc g, Esc $, Esc $, Esc L (pay particular attention 
+Ctrl+A, Ctrl+E, Esc g, Esc $, Esc L (pay particular attention 
 to what the difference is between Esc $ and Esc L)
 
 Note: Ctrl+A = press the control key and the letter A 
