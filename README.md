@@ -10,17 +10,16 @@ After accepting ther nano-assignment` complete the following steps:
 3. Using nano or touch, create a new text file called `nano-cheat-sheet.txt`1. In the next steps you will be adding information to your `nano-cheat-sheet.txt` file using nano. In the `nano-cheat-sheet.txt` file you will defining a number of nano key-bindings (keys you press) and what they do. for example the first line will look like this:
 
 ```
-Ctrl+X : exit nano. 
+Ctrl+x : exit nano. 
 ```
 
-4. Go ahead and add the first line, save (Ctrl+O) and commit the `nano-cheat-sheet.txt` file.
+4. Go ahead and add the first line, save (Ctrl+o and commit the `nano-cheat-sheet.txt` file.
 
-5. Add the definitions of the following key bindings: Ctrl+W, Ctrl+K, 
-Ctrl+A, Ctrl+E, Esc g, Esc $, Esc L (pay particular attention 
-to what the difference is between Esc $ and Esc L)
+5. Add the definitions of the following key bindings: Ctrl+w, Ctrl+k, 
+Ctrl+a, Ctrl+e, Esc g, Esc $, Esc l (pay particular attention 
+to what the difference is between Esc $ and Esc l)
 
-Note: Ctrl+A = press the control key and the letter A 
- *simultaneously* while Esc g = press the escape key first followed by 
+Note: Ctrl+a = press the control key and the letter a *simultaneously* while Esc g = press the escape key first followed by 
 the letter g (not simulataneously). Make sure you commit regularly (often and small - commit after adding each definition).
    
 6. Now you will define the following useful options that you can use when starting nano: -$, -i, -W, -S 
