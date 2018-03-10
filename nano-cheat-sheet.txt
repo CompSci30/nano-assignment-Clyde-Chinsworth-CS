@@ -7,6 +7,9 @@ esc+g : jumps to a specific spot in the text file
 esc+$ : enables or disables soft-wrapping of overlong lines (text on the same line will appear on the next line if line becomes too large for terminal window)
 esc+l : enables or disabled soft-wrapping of overlong lines (text on the same line will appear to be on the next line, does not cut off words)
 
+Options:
+-$ : enables soft-wrapping
+
 
 
 
