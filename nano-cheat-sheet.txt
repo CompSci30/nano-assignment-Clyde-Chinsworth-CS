@@ -11,7 +11,7 @@ Options:
 -$ : enables soft-wrapping
 -i : automatically indents new lines to the precious line's indentation
 -W : detects word boundaries differently by treating punctuation as part of a word
-
+-S : enables smooth scrolling, text will scroll one line at a time
 
 
 
