@@ -10,7 +10,8 @@ esc+l : enables or disabled soft-wrapping of overlong lines (text on the same li
 Options:
 -$ : enables soft-wrapping
 -i : automatically indents new lines to the precious line's indentation
-	
+-W : detects word boundaries differently by treating punctuation as part of a word
+
 
 
 
