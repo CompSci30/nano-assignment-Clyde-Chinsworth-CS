@@ -1,1 +1,3 @@
 ctrl+x : exit nano
+ctrl+w : find a string in the text file
+
