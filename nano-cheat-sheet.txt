@@ -4,5 +4,8 @@ ctrl+k : cuts the line being worked on
 ctrl+a : moves to the beginning of the line being worked on
 ctrl+e : moves to the end of the line being worked on
 esc+g : jumps to a specific spot in the text file
+esc+$ : enables or disables soft-wrapping of overlong lines (text on the same line will appear on the next line if line becomes too large for terminal window)
+
+
 
 
