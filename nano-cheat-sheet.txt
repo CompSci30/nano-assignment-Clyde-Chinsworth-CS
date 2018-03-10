@@ -1,3 +1,6 @@
 ctrl+x : exit nano
 ctrl+w : find a string in the text file
 ctrl+k : cuts the line being worked on
+ctrl+a : moves to the beginning of the line being worked on
+
+
